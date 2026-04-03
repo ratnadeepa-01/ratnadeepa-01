@@ -83,7 +83,7 @@ React • Node.js • Express • MongoDB
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ratnadeepa-01&theme=github_dark)
 
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratnadeepa-01&theme=github_dark)border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ratnadeepa-01&theme=github_dark)
 
 ---
 
